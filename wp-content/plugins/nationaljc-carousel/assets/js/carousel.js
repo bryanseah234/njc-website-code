@@ -1,0 +1,1 @@
+jQuery(".js-carousel").slick({ dots: !0, arrows: !1, fade: !0, autoplay: !0, autoplaySpeed: 5e3, pauseOnHover: !0 });
